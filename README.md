@@ -1,2 +1,2 @@
-# tiny-11-launcher
- a windows 11 launcher
+# nsb
+ nsb is like a usb cable but witouth any type of theings plugged in
